@@ -4,6 +4,10 @@ description: "Check out the latest releases of the WeDeploy"
 layout: "updates"
 updates:
  -
+  version: 1.5.9
+  date: July 8th, 2018
+  description: Added 'we list instances' command. Improved instance support. Minor improvements.
+ -
   version: 1.5.8
   date: July 4th, 2018
   description: Fixed deployment upload failure feedback. Minor improvements.
