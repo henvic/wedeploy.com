@@ -4,6 +4,34 @@ description: "Check out the latest releases of the WeDeploy"
 layout: "updates"
 updates:
  -
+  version: 1.6.7
+  date: October 14th, 2018
+  description: Fixed Windows build.
+ -
+  version: 1.6.6
+  date: October 14th, 2018
+  description: Improved error handling. Fixed metrics and diagnostics reporting. Minor improvements.
+ -
+  version: 1.6.5
+  date: September 21st, 2018
+  description: Minor improvements.
+ -
+  version: 1.6.4
+  date: September 18th, 2018
+  description: Added several improvements to 'we deploy', such as showing package size and supporting container image replacement with --image. Minor improvements.
+ -
+  version: 1.6.3
+  date: September 4th, 2018
+  description: Don't parse flags after command name on 'we exec'. Minor changes.
+ -
+  version: 1.6.2
+  date: September 4th, 2018
+  description: Added 'we deploy --only-build' support.
+ -
+  version: 1.6.1
+  date: August 15th, 2018
+  description: Fixed panic when using 'we shell'.
+ -
   version: 1.6.0
   date: August 5th, 2018
   description: Improved Windows install experience. Removed project id confirmation when extracting it from working directory. Minor improvements.
