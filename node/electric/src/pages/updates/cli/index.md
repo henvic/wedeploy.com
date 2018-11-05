@@ -4,6 +4,10 @@ description: "Check out the latest releases of the WeDeploy"
 layout: "updates"
 updates:
  -
+  version: 1.7.0
+  date: November 5th, 2018
+  description: Adding 'we inspect config'. Fix links for DXP Cloud documentation. Fix 'we log --level' filter. Use metadata from project git repository for DXP Cloud. Improve 'we list' reliability. Fix 'we deploy --service id' issue when a prompt opens asking for the project id. Minor improvements.
+ -
   version: 1.6.7
   date: October 14th, 2018
   description: Fixed Windows build.
